@@ -366,7 +366,7 @@ def add_gwm_config(cfg):
     cfg.GWM.HOMOGRAPHY = "quad"
     cfg.GWM.DATASET = "DAVIS"
     cfg.GWM.PAIR = True
-    cfg.GWM.DATA_ROOT = "/scratch/shared/beegfs/laurynas/datasets"
+    cfg.GWM.DATA_ROOT = "data"
     cfg.GWM.FLOW2RGB = False
     cfg.GWM.SIMPLE_REC = False
     cfg.GWM.USE_MULT_FLOW = False
