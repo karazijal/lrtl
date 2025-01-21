@@ -58,9 +58,9 @@ for training a model on davis dataset.
 
 ### Checkpoints
 We provide trained checkpoints for main experiments in the paper. These can be downloaded from the following links:
- - [DAVIS](https://www.robots.ox.ac.uk/~vgg/research/lrtl/checkpoints/davis_alt_best.pth)
- - [SegTrackV2](https://www.robots.ox.ac.uk/~vgg/research/lrtl/checkpoints/stv2_best.pth)
- - [FBMS](https://www.robots.ox.ac.uk/~vgg/research/lrtl/checkpoints/fbms_best.pth)
+ - [DAVIS](https://thor.robots.ox.ac.uk/lrtl/pytorch_checkpoints/davis_best_ckpt.pth)
+ - [SegTrackV2](https://thor.robots.ox.ac.uk/lrtl/pytorch_checkpoints/stv2_best_ckpt.pth)
+ - [FBMS](https://thor.robots.ox.ac.uk/lrtl/pytorch_checkpoints/fbms_best_ckpt.pth)
 
 
 ### Acknowledgements
