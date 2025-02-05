@@ -1,6 +1,6 @@
 ## Learning segmentation from point trajectories
 #### [Laurynas Karazija*](https://karazijal.github.io), [Iro Laina](http://campar.in.tum.de/Main/IroLaina), [Christian Rupprecht](https://chrirupp.github.io/), [Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/)
-### [![ProjectPage](https://img.shields.io/badge/-Project%20Page-magenta.svg?style=for-the-badge&color=white&labelColor=magenta)](https://www.robots.ox.ac.uk/~vgg/research/lrtl/) [![Conference](https://img.shields.io/badge/NeurIPS%20Spotlight-2024-purple.svg?style=for-the-badge&color=f1e3ff&labelColor=purple)](https://neurips.cc/virtual/2024/poster/93186)    [![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg?style=for-the-badge&logo=arXiv)](TODO)
+### [![ProjectPage](https://img.shields.io/badge/-Project%20Page-magenta.svg?style=for-the-badge&color=white&labelColor=magenta)](https://www.robots.ox.ac.uk/~vgg/research/lrtl/) [![Conference](https://img.shields.io/badge/NeurIPS%20Spotlight-2024-purple.svg?style=for-the-badge&color=f1e3ff&labelColor=purple)](https://neurips.cc/virtual/2024/poster/93186)    [![arXiv](https://img.shields.io/badge/arXiv-2501.12392-b31b1b.svg?style=for-the-badge&logo=arXiv)](https://arxiv.org/abs/2501.12392)
 
 
 
